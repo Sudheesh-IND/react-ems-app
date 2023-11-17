@@ -1,0 +1,15 @@
+.main{
+   min-height: 100vh;
+   max-height: 100%;
+}
+
+.detail{
+   background-color: rgb(71, 191, 193);
+   padding: 40px;
+   margin-top: 50px;
+   border-radius: 2rem;
+}
+.detail h2{
+   font-weight: 900;
+   color: rgb(0, 0, 0);
+}
